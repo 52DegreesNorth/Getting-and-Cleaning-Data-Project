@@ -23,7 +23,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.The data is saved as Averages_Data.txt
 
-**The following information is needed to use the data in Averages_Data.txt**
+*The following information is needed to use the data in Averages_Data.txt*
 
 ## Activity Labels
 1. WALKING
